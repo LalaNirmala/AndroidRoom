@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidRoomPersistenceCRUD</string>
+    <string name="title_activity_main2">Pegawai</string>
+
+    <string name="nama">Nama Pegawai</string>
+    <string name="empty_not_saved_name">Data not saved because it is empty.</string>
+
+    <string name="nip">NIP</string>
+    <string name="empty_not_saved_number">Data not saved because it is empty.</string>
+
+    <string name="phone">No Telepon</string>
+    <string name="empty_not_saved_phone">Data not saved because it is empty.</string>
+
+
+    <string name="button_save">Save</string>
+</resources>
